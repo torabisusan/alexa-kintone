@@ -1,0 +1,5 @@
+LIST_OF_TYPES
+normal
+tandem
+kids
+electric
